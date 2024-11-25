@@ -19,9 +19,9 @@ EduWork Connect is a responsive web platform designed to bridge the gap between 
 ---
 
 ### **Project Links**
-- **Live Application**: [EduWork Connect Public URL](#replace-with-your-live-url)
-- **Video Demo**: [Project Demonstration](#replace-with-your-video-link)
-- **SRS Document**: [EduWork Connect SRS](#replace-with-your-srs-link)
+- **Live Application**: https://www.eduwork.great-site.net/
+- **Video Demo**: https://drive.google.com/file/d/18Ts9o3onMYS8KX0kcl6v1GwAkPqapXJM/view?usp=sharing
+- **SRS Document**: https://docs.google.com/document/d/1_zq0T3XEFLXYgpMEtp_xqkUWqtVEO39jfoeh4nG0shQ/edit?usp=sharing
 
 ---
 
