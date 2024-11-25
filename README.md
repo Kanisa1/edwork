@@ -45,10 +45,10 @@ Before setting up the project, ensure you have the following installed:
    - Import the database file located at `/db/eduwork_connect.sql` into your MySQL server.
    - Configure database credentials in the `/config/database.php` file:
      ```php
-     define('DB_HOST', 'localhost');
-     define('DB_NAME', 'eduwork_connect');
-     define('DB_USER', 'your_username');
-     define('DB_PASS', 'your_password');
+     define('DB_HOST', 'sql301.infinityfree.com');
+     define('DB_NAME', 'if0_37766648_edtech');
+     define('DB_USER', 'if0_37766648');
+     define('DB_PASS', '0yVYU6zbOgG9V0');
      ```
 
 3. **Install Dependencies**:
@@ -89,12 +89,12 @@ Before setting up the project, ensure you have the following installed:
 - **Tools**:
   - GitHub for version control
   - Figma for design mockups
-  - Postman for API testing
+  - Infinity for deployment
 
 ---
 
 ### **Known Issues**
-- None reported at the time of deployment.
+- Error occurred on the settings page due to permission during deployment.
 
 ---
 
