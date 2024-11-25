@@ -63,7 +63,7 @@ Before setting up the project, ensure you have the following installed:
 
 4. **Run the Application**:
    - Start your local server or deploy to a hosting service.
-   - Access the application in your browser via `http://localhost/eduwork-connect`.
+   - Access the application in your browser via `https://www.eduwork.great-site.net/`.
 
 ---
 
